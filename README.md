@@ -1,8 +1,11 @@
 # Climate
 
 Used below cocoapods
+
   pod 'SwiftyJSON'
+  
   pod 'Alamofire'
+  
   pod 'SVProgressHUD'
   
  Also used protocol and delegate to send data from second VC to first VC
